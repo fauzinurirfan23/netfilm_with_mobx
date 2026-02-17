@@ -1,0 +1,14 @@
+{
+    "appTitle": "Movies",
+    "searchHint": "Search movie...",
+    "filterYear": "Filter by Year",
+    "sortByPopularity": "Sort by Popularity",
+    "defaultLabel": "Default",
+    "highToLow": "High to Low",
+    "lowToHigh": "Low to High",
+    "allYears": "All Years",
+    "bookmark": "Bookmark",
+    "noBookmark": "Belum ada favorit",
+    "successAddBookmark": "Successfully added ",
+    "successRemoveBookmark": "Successfully deleted "
+}

@@ -1,0 +1,14 @@
+{
+    "appTitle": "Film",
+    "searchHint": "Cari film...",
+    "filterYear": "Tahun",
+    "sortByPopularity": "Popularitas",
+    "defaultLabel": "Default",
+    "highToLow": "Tinggi ke Rendah",
+    "lowToHigh": "Rendah ke Tinggi",
+    "allYears": "Semua Tahun",
+    "bookmark": "Favorit",
+    "noBookmark": "Belum ada favorit",
+    "successAddBookmark": "Berhasil menambahkan",
+    "successRemoveBookmark": "Berhasil menghapus"
+}
