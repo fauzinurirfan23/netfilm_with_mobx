@@ -36,7 +36,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get bookmark => 'Bookmark';
 
   @override
-  String get noBookmark => 'Belum ada favorit';
+  String get noBookmark => 'No favourites yet';
 
   @override
   String get successAddBookmark => 'Successfully added ';

@@ -152,7 +152,7 @@ abstract class AppLocalizations {
   /// No description provided for @noBookmark.
   ///
   /// In en, this message translates to:
-  /// **'Belum ada favorit'**
+  /// **'No favourites yet'**
   String get noBookmark;
 
   /// No description provided for @successAddBookmark.
