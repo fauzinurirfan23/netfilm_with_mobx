@@ -48,7 +48,7 @@ class _MoviesPageState extends State<MoviesPage> {
         automaticallyImplyLeading: false,
         centerTitle: false,
         title: AppText(
-          text: AppLocalizations.of(context)!.bookmark,
+          text: "NetFilm",
           color: Theme.of(context).colorScheme.onSurface,
           fontWeight: FontWeight.bold,
           fontSize: 20,
