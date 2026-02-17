@@ -17,8 +17,6 @@ class ApiService {
 
     final body = jsonDecode(response.body);
 
-    print("REQUEST URL: $uri");
-    print("RESPONSE: $body");
     return body;
   }
 }

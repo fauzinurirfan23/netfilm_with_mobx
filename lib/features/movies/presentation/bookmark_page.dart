@@ -14,7 +14,7 @@ class BookmarkPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: AppText(
-          text: "Bookmarks",
+          text: AppLocalizations.of(context)!.bookmark,
           color: Theme.of(context).colorScheme.onSurface,
           fontWeight: FontWeight.bold,
           fontSize: 20,
